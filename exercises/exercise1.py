@@ -13,3 +13,9 @@ bok_d = 9
 h = 4
 pole_tr = 1/2 * bok_d * h
 print("Pole trójkąta wynosi: " + str(pole_tr))
+
+#romb
+bok_e = 7
+h2 = 3
+pole_rom = bok_e * h2
+print("Pole rombu wybosi: " +str(pole_rom))
